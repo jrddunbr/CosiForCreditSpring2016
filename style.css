@@ -1,0 +1,42 @@
+html {
+    background: #87a2b1;
+}
+
+table {
+    background: #c2b121;
+    border-radius: 10px;
+}
+
+td {
+    padding:3px;
+}
+
+a, a:visited {
+    text-decoration: none;
+    font-weight: bold;
+    color: #005073;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #005073;
+}
+
+ul {
+    list-style-image: url('bullet.gif');
+}
+
+.headtable {
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 10px;
+}
+
+.center {
+    margin-left: 30%;
+    margin-right: 25%;
+}
+
+.rounded {
+    border-radius: 10px;
+}
